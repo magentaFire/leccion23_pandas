@@ -1,0 +1,32 @@
+body {
+  background-color: #718b91;
+  font-family: sans-serif;
+}
+
+nav {
+  margin-bottom: 50px;
+  padding: 20px;
+  background-color: #445555;
+}
+
+button {
+  background-color: #ff3686;
+}
+
+a {
+  margin: 20px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #ddd;
+}
+
+img {
+  width: 150px;
+  margin: 10px;
+}
+
+p {
+  width: 200;
+  display: inline-block;
+
+}
