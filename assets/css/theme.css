@@ -10,7 +10,9 @@ nav {
 }
 
 button {
-  background-color: #ff3686;
+  width: auto;
+  margin: 15px;
+  background-color: #c1ccc3;
 }
 
 a {
@@ -23,10 +25,17 @@ a {
 img {
   width: 150px;
   margin: 10px;
+  filter: grayscale(100%);
+  border: 3px solid #333;
 }
 
-p {
-  width: 200;
-  display: inline-block;
+.container1 {
+  width: 75%;
+  margin: auto;
+}
 
+.containerP1, .containerP2 {
+  display: inline-block;
+  width: 420px;
+  margin: 15px;
 }
